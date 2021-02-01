@@ -10,7 +10,7 @@ It features 3 layers:
 - Anne Pro 2 layer 1 layout. WASD are arrow keys, IJKL are arrow keys, 
 - \[ is mapped to HOME, \] is mapped to END
 - ; is mapped to PGUP, ' is mapped to PGDWN
-- // is mapped to DEL <br/>
+- / is mapped to DEL <br/>
 ##### Layer 3:
 - WIP, but will have all RGB controls
 
