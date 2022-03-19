@@ -76,7 +76,7 @@
       "KC_RCTL"
     ],
     [
-      "KC_GESC",
+      "KC_GRV",
       "KC_F1",
       "KC_F2",
       "KC_F3",
@@ -127,7 +127,7 @@
       "MAGIC_TOGGLE_NKRO",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_END",
+      "KC_INS",
       "KC_DEL",
       "KC_MNXT",
       "KC_NO",
@@ -143,7 +143,7 @@
       "KC_NO",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
+      "KC_MPRV",
       "KC_NO",
       "KC_TRNS"
     ],
@@ -164,7 +164,7 @@
       "KC_DEL",
       "KC_TRNS",
       "RGB_MOD",
-      "KC_TRNS",
+      "RGB_HUI",
       "RGB_HUD",
       "RGB_SAI",
       "RGB_SAD",
