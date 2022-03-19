@@ -16,3 +16,9 @@ It features 3 layers:
 
 ### Background
 Used an Anne Pro 2 as my daily driver for about 2 years and absolutely loved keytap layout and layers. Decided to make a custom build and apply the same layout.
+
+
+
+#### Issues
+
+- Screenshot of first FN layer is incorrect, does not reflect changes in the latest version
