@@ -1,24 +1,7 @@
 {
   "name": "DZ60RGB ANSI V2",
   "vendorProductId": 1146753569,
-  "macros": [
-    "",
-    "",
-    "{KC_A}¿",
-    "{KC_TRNS}\b",
-    "\n",
-    "",
-    "",
-    "\u000e{KC_NO}99Ik",
-    "\u001f",
-    "ÿ\u0006",
-    "",
-    "",
-    "ÿ",
-    "À",
-    "ÿÿ",
-    "ÿ@"
-  ],
+  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
   "layers": [
     [
       "KC_GESC",
@@ -146,7 +129,7 @@
       "KC_TRNS",
       "KC_INS",
       "KC_DEL",
-      "KC_MNXT",
+      "KC_TRNS",
       "KC_NO",
       "KC_NO",
       "KC_LCTL",
@@ -162,7 +145,7 @@
       "KC_TRNS",
       "KC_MPRV",
       "KC_NO",
-      "KC_TRNS"
+      "KC_MNXT"
     ],
     [
       "KC_TRNS",
