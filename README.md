@@ -11,6 +11,8 @@ It features 3 layers:
 - \[ is mapped to HOME, \] is mapped to END
 - ; is mapped to PGUP, ' is mapped to PGDWN
 - / is mapped to DEL <br/>
+- RCTRL is mapped to Media NEXT
+- FN2 is mapped to Media PREV
 ##### Layer 3 (incomplete):
 - WIP, but will have all RGB controls
 
