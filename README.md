@@ -1,5 +1,7 @@
 # via-qmk-config
-This is the VIA-QMK layout json for my DZ60 RGB ANSI v2 HOTSWAP build. <br/>
+This is the VIA-QMK layout json the following builds:
+- DZ60 RGB ANSI v2 HOTSWAP
+- KBDFANS MKII RGB HOTSWAP
 It features 3 layers:
 <br/>
 ##### Layer 1: 
