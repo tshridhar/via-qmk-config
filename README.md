@@ -4,6 +4,7 @@ This is the VIA-QMK layout json the following builds:
 - KBDFANS MKII RGB HOTSWAP
 It features 3 layers:
 <br/>
+
 ##### Layer 1: 
 - Basic keymap with alphas and numbers, ESC. Caps Lock is FN1 on hold, normal on tap using LT() function.
 - four keys at the bottom right are mapped to RALT, FN1, FN2, RCTRL (note that these may not be actual keycodes)
